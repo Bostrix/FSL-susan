@@ -72,5 +72,4 @@ After successfully compiling, you can run Susan by executing:
 ```bash
 ./susan <input> <bt> <dt> <dim> <use_median> <n_usans> [<usan1> <bt1> [<usan2> <bt2>]] <output>
 ```
-
-This will execute the Susan program.
+This command will execute the susan tool.
