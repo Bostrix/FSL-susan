@@ -40,7 +40,7 @@ Replace `/path/to/your/znzlib` with the actual path to your znzlib directory.
 ## Compiling
 
 Once the dependencies are installed and the makefile is modified, you can proceed with compilation by running:
-```
+```bash
 make clean
 make
 ```
@@ -69,7 +69,7 @@ By running this command, you've set the `FSLOUTPUTTYPE` environment variable to 
 ## Running Susan
 
 After successfully compiling, you can run Susan by executing:
-```
+```bash
 ./susan <input> <bt> <dt> <dim> <use_median> <n_usans> [<usan1> <bt1> [<usan2> <bt2>]] <output>
 ```
 
