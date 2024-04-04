@@ -8,7 +8,7 @@ CXXFLAGS += -fpic
 SRCS = susan.cc
 
 #Additional LDFLAGS for znzlib library
-ZNZLIB_LDFLAGS = -L/path/to/your/znzlib -lfsl-znz
+ZNZLIB_LDFLAGS = -L${HOME}/FSL-susan/znzlib -lfsl-znz
 
 #Define object files
 OBJS = $(SRCS:.cc=.o)
