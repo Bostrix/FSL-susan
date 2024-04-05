@@ -1,6 +1,6 @@
 # Instructions for Compiling and Running Susan
 ## Introduction
-Welcome to SUSAN, a powerful image processing tool renowned for its ability to reduce noise while preserving essential structures in both 2D and 3D images. This guide will walk you through compiling SUSAN, providing step-by-step instructions to effectively utilize its advanced functionalities for precise noise reduction.
+Welcome to SUSAN, a powerful image processing tool for spatial smoothing and noise reduction in neuroimaging data processing. This guide will walk you through compiling SUSAN, providing step-by-step instructions to effectively utilize its advanced functionalities for precise noise reduction.
 
 For more information about susan and related tools, visit the FMRIB Software Library (FSL) website:[FSL Git Repository](https://git.fmrib.ox.ac.uk/fsl) and you can also find additional resources and documentation on susan on the FSL wiki page: [susan Documentation](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/SUSAN).
 ## Clone the Repository
